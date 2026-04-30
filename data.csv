@@ -1,0 +1,9 @@
+content_id,watch_time,completion_rate,device_type,region,youtube_views,genre
+1,12000,0.75,mobile,urban,500000,drama
+2,8000,0.60,smart_tv,rural,200000,family
+3,15000,0.80,mobile,urban,800000,action
+4,6000,0.55,smart_tv,rural,150000,drama
+5,20000,0.85,mobile,urban,1000000,thriller
+6,9000,0.70,smart_tv,semi-urban,250000,family
+7,11000,0.65,mobile,urban,400000,romance
+8,7000,0.60,smart_tv,rural,180000,drama
